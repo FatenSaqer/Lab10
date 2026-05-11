@@ -1,1 +1,2 @@
 # Lab10
+This project demonstrates the use of Support Vector Machines (SVM) and GridSearchCV in Scikit-Learn to classify the Iris dataset. The assignment involved training an SVM model, tuning hyperparameters such as C and gamma using GridSearchCV, and evaluating the model using confusion matrices and classification reports. After optimization, the model achieved high accuracy and strong precision, recall, and F1-scores across all classes, showing that hyperparameter tuning improved the overall performance of the classifier.
